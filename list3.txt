@@ -1,0 +1,9 @@
+cars=["nissan","mazda","wagon"]
+print(cars)
+cars[1:2]=["toyota"]
+print(cars)
+cars.insert(1,"mitsubishi")
+print(cars)
+cars=["nissan","mazda","wagon","ford"]
+cars.append("range")
+print(cars)
